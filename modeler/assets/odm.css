@@ -24,18 +24,18 @@
 }
 
 /* General */
-button {
+.pjs button {
   border: none;
   background: none;
 }
 
-ul {
+.pjs ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
 
-button:hover, a:hover {
+.pjs button:hover, .pjs a:hover {
   cursor: pointer;
 }
 
